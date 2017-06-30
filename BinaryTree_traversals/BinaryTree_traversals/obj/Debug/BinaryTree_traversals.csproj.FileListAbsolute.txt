@@ -1,0 +1,27 @@
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.exe.config
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.exe
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.pdb
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.Form1.resources
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.Properties.Resources.resources
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.exe
+C:\Users\sara\Desktop\visual studio\c#\visual\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.pdb
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.exe.config
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.exe
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.pdb
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.exe
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.pdb
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.Form1.resources
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.Properties.Resources.resources
+C:\Users\sara\Desktop\seminarska c#\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.csproj.GenerateResource.Cache
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.exe.config
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.exe
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.pdb
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.exe
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\bin\Debug\BinaryTree_traversals.pdb
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.csprojResolveAssemblyReference.cache
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.Form1.resources
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.Properties.Resources.resources
+C:\Users\sara\Desktop\visual studio\Sara Kostovska 101903\BinaryTree_traversals\BinaryTree_traversals\obj\Debug\BinaryTree_traversals.csproj.GenerateResource.Cache
